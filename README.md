@@ -2,4 +2,4 @@
 
 ## Git Tutorials
 
-[Git]("https://github.com/cauvery-digital/Git-Tutorial/blob/main/Git/README.md")
+[Git](Git/README.md)
